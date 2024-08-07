@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1701080738 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\04 linkedqueues\linkedqueues\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1701080591 c:\users\hassan\desktop\codes\c & c++\ds_sheets\04 linkedqueues\linkedqueues\list.h
+
+1701165576 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\04 linkedqueues\linkedqueues\main.c
+	<stdio.h>
+	"queue.h"
+
+1701165576 c:\users\hassan\desktop\codes\c & c++\ds_sheets\04 linkedqueues\linkedqueues\queue.h
+
+1701167178 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\04 linkedqueues\linkedqueues\queue.c
+	<stdio.h>
+	"queue.h"
+

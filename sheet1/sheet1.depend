@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1698329727 source:c:\users\hassan\desktop\codes\c & c++\sheet1\test.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1698323937 source:c:\users\hassan\desktop\codes\c & c++\sheet1\stack1.c
+	<stdio.h>
+	"stack1.h"
+
+1698329591 c:\users\hassan\desktop\codes\c & c++\sheet1\stack1.h
+
+1698670746 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\sheet1\stack1.c
+	<stdio.h>
+	"stack1.h"
+
+1698670746 c:\users\hassan\desktop\codes\c & c++\ds_sheets\sheet1\stack1.h
+
+1698671146 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\sheet1\test.c
+	<stdio.h>
+	"stack1.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703341947 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\07 btrees\btrees\main.c
+	<stdio.h>
+	"bTree.h"
+
+1703341947 c:\users\hassan\desktop\codes\c & c++\ds_sheets\07 btrees\btrees\btree.h
+
+1703344847 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\07 btrees\btrees\btree.c
+	<stdio.h>
+	<stdlib.h>
+	"bTree.h"
+

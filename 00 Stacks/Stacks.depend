@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698169367 source:c:\users\hassan\desktop\codes\c & c++\stacks\stack.c
+	"stack.h"
+
+1698168695 c:\users\hassan\desktop\codes\c & c++\stacks\stack.h
+
+1698169367 source:c:\users\hassan\desktop\codes\c & c++\stacks\main.c
+	"stack.h"
+
+1698669676 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\00 stacks\stack.c
+	"stack.h"
+
+1698669708 c:\users\hassan\desktop\codes\c & c++\ds_sheets\00 stacks\stack.h
+
+1698670333 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\00 stacks\main.c
+	<stdio.h>
+	"stack.h"
+

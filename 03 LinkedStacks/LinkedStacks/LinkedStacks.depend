@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700297139 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\03 linkedstacks\linkedstacks\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1699361363 c:\users\hassan\desktop\codes\c & c++\ds_sheets\03 linkedstacks\linkedstacks\list.h
+
+1700317554 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\03 linkedstacks\linkedstacks\stack.c
+	<stdio.h>
+	"stack.h"
+	"list.h"
+
+1700319681 c:\users\hassan\desktop\codes\c & c++\ds_sheets\03 linkedstacks\linkedstacks\stack.h
+
+1700317954 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\03 linkedstacks\linkedstacks\main.c
+	<stdio.h>
+	"stack.h"
+

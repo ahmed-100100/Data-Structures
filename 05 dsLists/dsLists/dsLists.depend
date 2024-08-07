@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701576946 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\05 dslists\dslists\main.c
+	<stdio.h>
+	"dslist.h"
+
+1701349474 c:\users\hassan\desktop\codes\c & c++\ds_sheets\05 dslists\dslists\dslist.h
+
+1701577020 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\05 dslists\dslists\dslist.c
+	<stdio.h>
+	"dslist.h"
+

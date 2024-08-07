@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701705135 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\06 trees\trees\main.c
+	<stdio.h>
+	"tree.h"
+
+1701705114 c:\users\hassan\desktop\codes\c & c++\ds_sheets\06 trees\trees\tree.h
+
+1701704748 source:c:\users\hassan\desktop\codes\c & c++\ds_sheets\06 trees\trees\tree.c
+	<stdio.h>
+	"tree.h"
+
